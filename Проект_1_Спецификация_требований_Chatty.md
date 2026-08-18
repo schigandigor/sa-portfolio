@@ -78,7 +78,7 @@
 
 ## Результат
 
-[Итоговая спецификация в Google Docs](https://docs.google.com/document/d/15NKogPmop0tJB3hTfUXQ6rft8gmst-qAYiLd10gUY78/edit?usp=sharing)
+- [Итоговая спецификация в Google Docs](https://docs.google.com/document/d/15NKogPmop0tJB3hTfUXQ6rft8gmst-qAYiLd10gUY78/edit?usp=sharing)
 
 ---
 
